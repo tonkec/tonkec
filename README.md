@@ -64,6 +64,9 @@ I am a great software developer who possesses a combination of technical skills,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonkec)](https://github.com/anuraghazra/github-readme-stats)
 
+![Tonkec's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonkec&show=reviews)
+
+
 
 
 
