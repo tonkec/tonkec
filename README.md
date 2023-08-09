@@ -60,7 +60,7 @@ I am a great software developer who possesses a combination of technical skills,
 - 🥇 Documentation: I create clear and comprehensive documentation for their code, APIs, and projects. This helps other developers understand and work with their software
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tonkec&theme=dark&background=000000)](https://git.io/streak-stats)
+[View my github stats here](https://github-readme-streak-stats.herokuapp.com/?user=tonkec)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonkec)](https://github.com/anuraghazra/github-readme-stats)
 
