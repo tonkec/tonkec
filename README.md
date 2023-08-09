@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.meeatantonija.com">
+  <a href="https://www.meetantonija.com">
     <img src="https://img.shields.io/badge/website-orange?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
 
