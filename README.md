@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.meetantonija.com/static/media/sitting.29f910d648ed76222c73.jpeg" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -43,21 +43,6 @@ I am a great software developer who possesses a combination of technical skills,
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-### 🧑‍🚀 What other skills do I bring?
-
-- 🥇 Problem Solving: I am skilled at breaking down complex problems into smaller, manageable components and devising efficient solutions. I approach challenges with creativity and critical thinking.
-- 🥇 Attention to Detail: Paying attention to detail is crucial in software development to catch bugs, ensure code quality, and create robust applications.
-- 🥇 Continuous Learning: Technology is constantly evolving, and great developers are dedicated to continuous learning. I seek out new skills, stay informed about industry trends, and actively pursue self-improvement.
-- 🥇 Collaboration: Software development is often a team effort. Great developers work well with others, communicate effectively, and contribute positively to team dynamics.
-- 🥇 Code Quality: I write clean, modular, and maintainable code that is easy to understand and extend. I follow coding standards, use appropriate design patterns, and employ best practices.
-- 🥇 Testing and Debugging: Great developers understand the importance of testing their code thoroughly to identify and fix issues. I am proficient in debugging techniques and use tools to diagnose and resolve problems.
-- 🥇 Version Control: Proficiency in using version control systems (e.g., Git) to manage code changes, collaborate with others, and track project history is essential.
-- 🥇 User-Centric Focus: I prioritize the needs and experiences of end-users, creating software that is intuitive, user-friendly, and meets user requirements.
-- 🥇 Adaptability: The tech landscape evolves rapidly, and great developers are adaptable to new tools, languages, and methodologies. I can pivot when necessary and apply their skills to various domains.
-- 🥇 Attention to Performance: Optimizing code for performance and scalability is important for creating efficient and responsive software applications.
-- 🥇 Documentation: I create clear and comprehensive documentation for their code, APIs, and projects. This helps other developers understand and work with their software
 
 ### :fire: My Stats :
 [View my github stats here](https://github-readme-streak-stats.herokuapp.com/?user=tonkec)
