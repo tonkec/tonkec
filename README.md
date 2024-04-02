@@ -44,6 +44,18 @@ I am a great software developer who possesses a combination of technical skills,
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### My blog posts
+ - [Double Question Mark in Javascript](https://www.meetantonija.com/#/notes/6)
+ - [Lexical Scope](https://www.meetantonija.com/#/notes/2)
+ - [Kako sam dosla do prvog posla](https://blog.kodiraonica.dev/posts/kako_sam_dosla_do_prvog_posla/)
+ - [Programiranje i matematika](https://blog.kodiraonica.dev/posts/programiranje_i_matematika/)
+
+### Watch me coding
+ - [Load data on click](https://youtu.be/iCiG3WTfrX4?si=VfCGRhzYzT1c7Ytq)
+ - [Card with a gradient](https://youtu.be/MfoP_YBDNX4?si=WrvCpFAe_i5NrXn_)
+ - [Signup form](https://youtu.be/PgCKTLeWLRs?si=DCer1Fqkn-ap9zLJ)
+
+
 ### :fire: My Stats :
 [View my github stats here](https://github-readme-streak-stats.herokuapp.com/?user=tonkec)
 
