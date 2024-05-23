@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://www.meetantonija.com/static/media/sitting.29f910d648ed76222c73.jpeg" width="400"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/antonija-simic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
