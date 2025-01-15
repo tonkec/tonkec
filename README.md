@@ -41,8 +41,8 @@ I am a great software developer who possesses a combination of technical skills,
 </div>
 
 ### My blog posts
- - [Double Question Mark in Javascript](https://www.meetantonija.com/#/notes/6)
- - [Lexical Scope](https://www.meetantonija.com/#/notes/2)
+ - [Double Question Mark in Javascript](https://meetantonija.com/post/double_question_mark_operator)
+ - [Lexical Scope](https://meetantonija.com/post/what_is_a_lexical_scope)
  - [Kako sam dosla do prvog posla](https://blog.kodiraonica.dev/posts/kako_sam_dosla_do_prvog_posla/)
  - [Programiranje i matematika](https://blog.kodiraonica.dev/posts/programiranje_i_matematika/)
 
