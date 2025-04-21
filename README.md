@@ -19,9 +19,6 @@ I’m a passionate and experienced front-end developer focused on building high-
 - ✍️ Exploring **technical writing** and sharing my learnings through blogs and YouTube.
 - 🎸 In my free time, I **play guitar** and go on **bike rides**.
 
-📬 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-antonija-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonija-simic/)
-
 ### 🛠️ Languages and Tools
 
 <div>
