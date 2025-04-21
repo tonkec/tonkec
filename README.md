@@ -56,6 +56,4 @@ I’m a passionate and experienced front-end developer focused on building high-
 
 ![Tonkec's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonkec&show=reviews)
 
----
-
 Thank you for visiting — let's build something beautiful together. ✨
