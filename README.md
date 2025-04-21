@@ -10,12 +10,6 @@
   </a>
 </div>
 
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
 ### 👩‍💻 About Me
 
 I’m a passionate and experienced front-end developer focused on building high-quality, accessible web apps with React. I combine technical expertise, empathy-driven design, and a constant drive to improve.
