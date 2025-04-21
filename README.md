@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
 
 ### 👩‍💻 About Me
 
@@ -28,8 +27,6 @@ I’m a passionate and experienced front-end developer focused on building high-
 
 📬 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-antonija-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonija-simic/)
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -44,8 +41,6 @@ I’m a passionate and experienced front-end developer focused on building high-
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
-
 ### ✍️ My Blog Posts
 
 - [Double Question Mark in JavaScript](https://meetantonija.com/post/double_question_mark_operator)
@@ -53,15 +48,11 @@ I’m a passionate and experienced front-end developer focused on building high-
 - [Kako sam došla do prvog posla](https://blog.kodiraonica.dev/posts/kako_sam_dosla_do_prvog_posla/)
 - [Programiranje i matematika](https://blog.kodiraonica.dev/posts/programiranje_i_matematika/)
 
----
-
 ### 🎥 Watch Me Code
 
 - [Load data on click](https://youtu.be/iCiG3WTfrX4?si=VfCGRhzYzT1c7Ytq)
 - [Card with a gradient](https://youtu.be/MfoP_YBDNX4?si=WrvCpFAe_i5NrXn_)
 - [Signup form](https://youtu.be/PgCKTLeWLRs?si=DCer1Fqkn-ap9zLJ)
-
----
 
 ### 🔥 GitHub Stats
 
